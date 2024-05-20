@@ -1,6 +1,6 @@
 - 👋 Olá! Meu nome é Tulio D'Sousa
 -  😄 Filho do Deus Todo Poderoso 
-- 👀 Tenho interesse em participar do mundo de programação 
-- 🌱 No momento estou desenvolvendo o conhecimento em HTML, CSS & PYTON, partindo logo logo para o JAVA SCRIPT.
+- 👀 Interessado em participar do maravilhoso mundo da programação 
+- 🌱 Estou desenvolvendo o conhecimento em HTML, CSS & PYTON, partindo logo logo para o JAVA SCRIPT.
 - 💞️ Pretendo poder colaborar com projetos desenvolvidos com as linguagens que estou aprendendo no momento
 - ⚡ Seria hilario se não fosse verdade o cara querer aprender tudo que for relacionado a TI 0800
